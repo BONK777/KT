@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Капучино",
+        "src": "images/capuchino.jpg"
+    },
+    {
+        "title": "Зеленый чаq",
+        "src": "images/greenTea.jpg"
+    },
+    {
+        "title": "Чай",
+        "src": "images/tea.jpg"
+    },
+    {
+        "title": "Кофе",
+        "src": "images/coffee.jpg"
+    }
+]
